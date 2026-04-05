@@ -22,8 +22,6 @@ Thumbs.db
 # Environment files
 .env
 
-# VSIX packages (generated files)
-*.vsix
 
 # TypeScript cache
 *.tsbuildinfo

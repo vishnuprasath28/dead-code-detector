@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+out/
+build/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# VSIX packages (generated files)
+*.vsix
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# Temp files
+tmp/
+temp/
+
+#MD files
+AGENTS.md
+CLAUDE.md
+
+# Optional: lock files (keep if you want reproducibility)
+# package-lock.json
+# yarn.lock
